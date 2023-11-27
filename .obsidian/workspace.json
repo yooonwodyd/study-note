@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yoons/자바/1장.md",
+                "file": "yoons/자바/6장.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yoons/자바/1장.md",
+                "file": "yoons/자바/6장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yoons/자바/1장.md",
+                "file": "yoons/자바/6장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yoons/자바/1장.md"
+                "file": "yoons/자바/6장.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "20d75027201c1b15",
   "lastOpenFiles": [
-    "yoons/R/R에서 선형회귀분석하기.md",
     "yoons/자바/1장.md",
+    "yoons/자바/6장.md",
+    "yoons/R/R에서 선형회귀분석하기.md",
     "yoons/스크린샷 2023-11-27 오전 9.57.03.png",
     "스크린샷 2023-11-27 오전 10.21.35.png",
     "README.md"
