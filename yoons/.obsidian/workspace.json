@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "693d409a476274d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2be90b86ce31a3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19926932a562ac31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R/R에서 선형회귀분석하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6eedea1c2baf7b53",
+    "type": "split",
+    "children": [
+      {
+        "id": "0113bcaaba5f6287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1164dfab10374849",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2eda26bcb40ae834",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "694ee9d6a8be6b22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e598022a53859dc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "849a0c197e10c69b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a44587479574fb1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R/R에서 선형회귀분석하기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6e78a81445c2d44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R/R에서 선형회귀분석하기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4f46673a88eed78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "871abd8fd14ed99a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R/R에서 선형회귀분석하기.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "1164dfab10374849",
+  "lastOpenFiles": [
+    "스크린샷 2023-11-27 오전 9.57.03.png",
+    "운영체제/커널과 운영체제의 차이.md",
+    "R/R에서 선형회귀분석하기.md",
+    "R",
+    "배포/도커를 쓰는 이유.md",
+    "운영체제",
+    "배포/로컬에서 도커 빌드하기.md",
+    "무제 폴더",
+    "플러터",
+    "스프링",
+    "배포",
+    "자바",
+    "무제 파일.md",
+    "무제 파일.canvas",
+    "2023-11-24.md"
+  ]
+}
