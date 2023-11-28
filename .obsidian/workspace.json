@@ -14,8 +14,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "1657b82a1b58f08a",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,11 +144,18 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "20d75027201c1b15",
+  "active": "1657b82a1b58f08a",
   "lastOpenFiles": [
+    "yoons/2023-12-18 경영윤리 시험.md",
+    "yoons/배포/도커를 쓰는 이유.md",
+    "yoons/배포/로컬에서 도커 빌드하기.md",
+    "yoons/경영/경영조직론 - 7장.md",
+    "yoons/무제 폴더/무제 파일.canvas",
+    "yoons/경영/무제 파일.md",
     "yoons/자바/자바.md",
     "yoons/자바/자바 개요.md",
     "yoons/자바/컴파일시 오버라이딩한 메서드를 찾는 과정.md",
@@ -156,7 +171,6 @@
     "yoons/경영/IT 프로젝트 관리.md",
     "yoons/무제 파일.md",
     "yoons/경영/무 폴더",
-    "yoons/경영/경영조직론 - 7장.md",
     "yoons/경영",
     "yoons/경영조직론.md",
     "yoons/스크린샷 2023-11-27 오전 9.57.03.png",

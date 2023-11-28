@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-full-calendar:full-calendar-open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ]
+}
