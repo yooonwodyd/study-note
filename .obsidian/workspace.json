@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yoons/R/R에서 선형회귀분석하기.md",
+                "file": "yoons/자바/메서드를 통해서 구현된 클래스의 인스턴스를 얻기.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yoons/R/R에서 선형회귀분석하기.md",
+                "file": "yoons/자바/메서드를 통해서 구현된 클래스의 인스턴스를 얻기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yoons/R/R에서 선형회귀분석하기.md",
+                "file": "yoons/자바/메서드를 통해서 구현된 클래스의 인스턴스를 얻기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yoons/R/R에서 선형회귀분석하기.md"
+                "file": "yoons/자바/메서드를 통해서 구현된 클래스의 인스턴스를 얻기.md"
               }
             }
           }
@@ -166,6 +166,9 @@
   },
   "active": "4c09988c2b9028db",
   "lastOpenFiles": [
+    "yoons/자바/자바.md",
+    "yoons/자바/메서드를 통해서 구현된 클래스의 인스턴스를 얻기.md",
+    "yoons/R/R에서 선형회귀분석하기.md",
     "yoons/경영/IT 프로젝트 관리.md",
     "yoons/경영/경영조직론 - 7장.md",
     "캘린더/2023-12-03 유통관리.md",
@@ -185,11 +188,9 @@
     "yoons/배포/로컬에서 도커 빌드하기.md",
     "yoons/무제 폴더/무제 파일.canvas",
     "yoons/경영/무제 파일.md",
-    "yoons/자바/자바.md",
     "yoons/자바/자바 개요.md",
     "yoons/자바/컴파일시 오버라이딩한 메서드를 찾는 과정.md",
     "yoons/자바/Wrapper 클래스를 컴파일 했을 때 생기는 점들.md",
-    "yoons/R/R에서 선형회귀분석하기.md",
     "스크린샷 2023-11-29 오전 3.14.47.png",
     "스크린샷 2023-11-29 오전 3.13.32.png",
     "스크린샷 2023-11-29 오전 2.57.03.png",
