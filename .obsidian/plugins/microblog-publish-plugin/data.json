@@ -1,0 +1,18 @@
+{
+  "appToken": "EF25D47056F04A59410F",
+  "defaultTags": "obyoons",
+  "postVisibility": "draft",
+  "blogs": {
+    "default": "Default",
+    "https://yoonjaeyong.micro.blog/": "yoonjaeyong.micro.blog"
+  },
+  "selectedBlogID": "https://yoonjaeyong.micro.blog/",
+  "tagSuggestions": [
+    "CS",
+    "Flutter",
+    "Java",
+    "R",
+    "Spring"
+  ],
+  "includePagesInNavigation": false
+}
