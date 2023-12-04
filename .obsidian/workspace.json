@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9af7cf67c2262d79",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -151,6 +159,7 @@
   },
   "active": "c67642cd9a97f9fd",
   "lastOpenFiles": [
+    "스크린샷 2023-12-05 오전 3.58.53.png",
     "yoons/R/R에서 선형회귀분석하기.md",
     "yoons/배포/도커를 쓰는 이유.md",
     "yoons/경영/경영조직론 - 7장.md",
@@ -182,7 +191,6 @@
     "yoons/자바/지네릭스.md",
     "yoons/자바/메서드를 통해서 구현된 클래스의 인스턴스를 얻기.md",
     "yoons/자바/람다와 스트림.md",
-    "yoons/자바/자바로 소켓 통신 구현하기.md",
     "yoons/백준",
     "캘린더",
     "ㅇ",
