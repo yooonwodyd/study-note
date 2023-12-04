@@ -11,8 +11,12 @@
             "id": "6a140405201da5be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "yoons/R/고급회귀분석.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "yoons/R/고급회귀분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "yoons/R/고급회귀분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "yoons/R/고급회귀분석.md"
+              }
             }
           }
         ]
@@ -151,6 +159,9 @@
   },
   "active": "6a140405201da5be",
   "lastOpenFiles": [
+    "yoons/R/R에서 선형회귀분석하기.md",
+    "yoons/R/고급회귀분석.md",
+    "yoons/R/Test Post.md",
     "yoons/배포/로컬에서 도커 빌드하기.md",
     "yoons/배포/배포 공부 내용들.md",
     "yoons/배포/http 에서 https 로 변경하는 과정.md",
@@ -175,9 +186,6 @@
     "쓰레드.md",
     "OSI 7계층.md",
     "yoons/자바/컬렉션 프레임웍.md",
-    "yoons/R/Test Post.md",
-    "yoons/R/R에서 선형회귀분석하기.md",
-    "yoons/자바/인터페이스.md",
     "yoons/백준",
     "캘린더",
     "ㅇ",
