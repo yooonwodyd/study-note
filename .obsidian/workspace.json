@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yoons/R/R에서 선형회귀분석-3.md",
+                "file": "yoons/경영/경영조직론 8장.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yoons/R/R에서 선형회귀분석-3.md",
+                "file": "yoons/경영/경영조직론 8장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yoons/R/R에서 선형회귀분석-3.md",
+                "file": "yoons/경영/경영조직론 8장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yoons/R/R에서 선형회귀분석-3.md"
+                "file": "yoons/경영/경영조직론 8장.md"
               }
             }
           }
@@ -146,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mixa:Publish to yoonwodyd.mixa.site with Mixa": false,
       "copilot:Copilot Chat": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -153,14 +154,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "mixa:Publish with Mixa": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "c67642cd9a97f9fd",
   "lastOpenFiles": [
-    "yoons/R/R에서 선형회귀분석하기 - 2.md",
     "yoons/R/R에서 선형회귀분석-3.md",
+    "yoons/경영/경영조직론 8장.md",
+    "yoons/R/R에서 선형회귀분석하기 - 2.md",
     "스크린샷 2023-12-05 오전 5.28.08.png",
     "스크린샷 2023-12-05 오전 5.24.24.png",
     "스크린샷 2023-12-05 오전 4.55.35.png",
@@ -170,7 +171,6 @@
     "yoons/배포/도커를 쓰는 이유.md",
     "yoons/경영/경영조직론 - 7장.md",
     "yoons/경영/IT 프로젝트 관리.md",
-    "yoons/경영/무제 파일.md",
     "캘린더/2023-12-04 융프 플러터 오류잡기.md",
     "캘린더/2023-12-06 융합프로젝트 발표.md",
     "캘린더/2023-12-07 경영데이터분석 과제.md",
