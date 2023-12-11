@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yoons/경영/IT 프로젝트 관리.md",
+                "file": "yoons/기초 CS/URI,URL,URN.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yoons/경영/IT 프로젝트 관리.md",
+                "file": "yoons/기초 CS/URI,URL,URN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yoons/경영/IT 프로젝트 관리.md",
+                "file": "yoons/기초 CS/URI,URL,URN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yoons/경영/IT 프로젝트 관리.md"
+                "file": "yoons/기초 CS/URI,URL,URN.md"
               }
             }
           }
@@ -184,6 +184,11 @@
   },
   "active": "51f64b565cb6027b",
   "lastOpenFiles": [
+    "yoons/경영/IT 프로젝트 관리.md",
+    "yoons/기초 CS/URI,URL,URN.md",
+    "yoons/기초 CS",
+    "yoons/무제 파일 1.md",
+    "yoons/무제 파일.md",
     "yoons/R/R에서 선형회귀분석하기.md",
     "yoons/경영/경영조직론 8장.md",
     "캘린더/2023-12-11 GDSC 및 개인 프로젝트.md",
@@ -204,7 +209,6 @@
     "스크린샷 2023-12-05 오전 3.58.53.png",
     "yoons/배포/도커를 쓰는 이유.md",
     "yoons/경영/경영조직론 - 7장.md",
-    "yoons/경영/IT 프로젝트 관리.md",
     "캘린더/2023-12-04 융프 플러터 오류잡기.md",
     "캘린더/2023-12-06 융합프로젝트 발표.md",
     "캘린더/2023-12-07 경영데이터분석 과제.md",
@@ -217,9 +221,6 @@
     "스크린샷 2023-12-04 오전 9.43.16.png",
     "스크린샷 2023-12-04 오전 9.42.29.png",
     "yoons/R/Test Post.md",
-    "yoons/배포/로컬에서 도커 빌드하기.md",
-    "yoons/배포/배포 공부 내용들.md",
-    "yoons/배포/http 에서 https 로 변경하는 과정.md",
     "yoons/자바/컴파일",
     "yoons/백준",
     "캘린더",
