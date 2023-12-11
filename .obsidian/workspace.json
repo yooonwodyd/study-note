@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yoons/경영/IT 프로젝트 관리.md",
+                "file": "yoons/경영/경영조직론 8장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yoons/경영/IT 프로젝트 관리.md",
+                "file": "yoons/경영/경영조직론 8장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yoons/경영/IT 프로젝트 관리.md"
+                "file": "yoons/경영/경영조직론 8장.md"
               }
             }
           }
@@ -182,10 +181,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "51f64b565cb6027b",
+  "active": "c67642cd9a97f9fd",
   "lastOpenFiles": [
-    "yoons/기초 CS/URI,트랜잭션.md",
     "yoons/경영/IT 프로젝트 관리.md",
+    "yoons/기초 CS/URI,트랜잭션.md",
     "yoons/기초 CS",
     "yoons/무제 파일 1.md",
     "yoons/무제 파일.md",
