@@ -1,4 +1,15 @@
 
+
+
+
+## Why we're no longer pursuing the Quayside project
+
+
+
+
+
+
+
 ## 오픈 커뮤니티에서의 협업
 
 
