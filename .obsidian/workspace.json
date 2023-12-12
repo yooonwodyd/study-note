@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yoons/R/R에서 선형회귀분석-3.md",
+                "file": "diary/12월 13일.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yoons/경영/경영조직론 8장.md",
+                "file": "diary/12월 13일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yoons/경영/경영조직론 8장.md",
+                "file": "diary/12월 13일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yoons/경영/경영조직론 8장.md"
+                "file": "diary/12월 13일.md"
               }
             }
           }
@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,15 +193,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4495c006d5c814cb",
+  "active": "e0c5873df32b0dba",
   "lastOpenFiles": [
+    "yoons/경영/경영조직론 8장.md",
+    "diary/12월 13일.md",
     "diary",
     "di",
     "yoons/R/R에서 선형회귀분석하기.md",
     "yoons/R/R에서 선형회귀분석-3.md",
     "yoons/경영/경영조직론.md",
     "yoons/경영/경영조직론 - 7장.md",
-    "yoons/경영/경영조직론 8장.md",
     "yoons/경영/IT 프로젝트 관리.md",
     "yoons/기초 CS/URI,트랜잭션.md",
     "yoons/기초 CS",
