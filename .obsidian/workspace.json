@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소켓.md",
+                "file": "diary/2023년 12월 13일.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소켓.md",
+                "file": "diary/2023년 12월 13일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소켓.md",
+                "file": "diary/2023년 12월 13일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소켓.md"
+                "file": "diary/2023년 12월 13일.md"
               }
             }
           }
@@ -196,6 +196,7 @@
   },
   "active": "e0c5873df32b0dba",
   "lastOpenFiles": [
+    "소켓.md",
     "diary/2023년 12월 13일.md",
     "yoons/aaa.md",
     "diary",
@@ -230,7 +231,6 @@
     "yoons/배포/도커를 쓰는 이유.md",
     "캘린더/2023-12-04 융프 플러터 오류잡기.md",
     "캘린더/2023-12-06 융합프로젝트 발표.md",
-    "캘린더/2023-12-07 경영데이터분석 과제.md",
     "스크린샷 2023-12-04 오전 10.04.01.png",
     "스크린샷 2023-12-04 오전 9.49.57.png",
     "스크린샷 2023-12-04 오전 9.43.42.png",
