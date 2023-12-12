@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023년 12월 13일.md",
+                "file": "소켓.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023년 12월 13일.md",
+                "file": "소켓.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023년 12월 13일.md",
+                "file": "소켓.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023년 12월 13일.md"
+                "file": "소켓.md"
               }
             }
           }
@@ -196,8 +196,8 @@
   },
   "active": "e0c5873df32b0dba",
   "lastOpenFiles": [
-    "yoons/aaa.md",
     "diary/2023년 12월 13일.md",
+    "yoons/aaa.md",
     "diary",
     "diary/12월 13일.md",
     "소켓 복사본.md",
