@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yoons/경영/경영조직론.md",
+                "file": "yoons/R/R에서 선형회귀분석-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yoons/경영/경영조직론.md",
+                "file": "yoons/경영/경영조직론 8장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yoons/경영/경영조직론.md",
+                "file": "yoons/경영/경영조직론 8장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yoons/경영/경영조직론.md"
+                "file": "yoons/경영/경영조직론 8장.md"
               }
             }
           }
@@ -194,17 +194,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e0c5873df32b0dba",
+  "active": "4495c006d5c814cb",
   "lastOpenFiles": [
+    "yoons/R/R에서 선형회귀분석하기.md",
+    "yoons/R/R에서 선형회귀분석-3.md",
+    "yoons/경영/경영조직론.md",
     "yoons/경영/경영조직론 - 7장.md",
     "yoons/경영/경영조직론 8장.md",
-    "yoons/경영/경영조직론.md",
     "yoons/경영/IT 프로젝트 관리.md",
     "yoons/기초 CS/URI,트랜잭션.md",
     "yoons/기초 CS",
     "yoons/무제 파일 1.md",
     "yoons/무제 파일.md",
-    "yoons/R/R에서 선형회귀분석하기.md",
     "캘린더/2023-12-11 GDSC 및 개인 프로젝트.md",
     "캘린더/2023-12-10 플러터 블로그 정리.md",
     "캘린더/2023-12-10 경영윤리 과제.md",
@@ -214,7 +215,6 @@
     "캘린더/2023-12-08 도커와 CICD 준비.md",
     "캘린더/2023-12-08 경영조직론.md",
     "캘린더/2023-12-07 여권발급.md",
-    "yoons/R/R에서 선형회귀분석-3.md",
     "yoons/R/R에서 선형회귀분석하기 - 2.md",
     "스크린샷 2023-12-05 오전 5.28.08.png",
     "스크린샷 2023-12-05 오전 5.24.24.png",
