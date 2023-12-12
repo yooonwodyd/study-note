@@ -1,1 +1,6 @@
-{}
+{
+  "userIgnoreFilters": [
+    "diary/",
+    "캘린더/"
+  ]
+}
